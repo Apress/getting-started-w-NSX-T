@@ -7,6 +7,6 @@ This repository accompanies [*Getting Started with NSX-T: Logical Routing and Sw
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-## ReleasesIncluded in this repository are a number of images that some readers may have found hard to read in the printed edition.
+## Releases
 
-## 
+Included in this repository are a number of images that some readers may have found hard to read in the printed edition.
